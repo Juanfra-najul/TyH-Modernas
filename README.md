@@ -3,4 +3,4 @@ Esta es la entrega del trabajo completo del Módulo 1 de TyHM - Creación de tex
 <p>
  Mi CV puede descargarse de este link:
   <p>
-    [CV Actualizado](CV1(1).zip)
+    [CV Actualizado](CV1 (1).zip)
