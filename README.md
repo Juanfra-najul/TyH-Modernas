@@ -1,5 +1,6 @@
 # TyH-Modernas
-Modulo 1 TyHM - CV y Traducción
-Creación de textos e hipertextos
-Crear una carpeta para el CV
-Crear una carpeta para el libro 
+Esta es la entrega del trabajo completo del Módulo 1 de TyHM - Creación de textos e hipertextos
+<p>
+ Mi CV puede descargarse de este link:
+  <p>
+    [CV Actualizado](Links Url)
